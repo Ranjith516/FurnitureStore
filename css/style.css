@@ -1,0 +1,27 @@
+/* common style for all the pages */
+.navbar-brand > img{
+    width: 100px;
+    height: 60px;
+
+} 
+.navbar{
+    background-color: rgba(228, 233, 204, 0.912);
+}
+#jumbocontainer > img{
+    width: 100%;
+
+    
+}
+
+#homejumbo1{
+    background-color: rgba(194, 205, 209, 0.819);
+}
+
+
+.products{
+        margin-left: 40px;
+        margin-right: 10px;
+        margin-bottom: 40px;
+        background-color: rgba(230, 232, 207, 0.814);
+ }
+
